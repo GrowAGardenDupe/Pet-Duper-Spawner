@@ -1,13 +1,1 @@
--- SpawnerDupes Final
--- Wrapper for original script
-
-local source = "https://pastefy.app/XPqbnvZ2/raw"
-local response = game:HttpGet(source)
-local execute = loadstring(response)
-
-if execute then
-    print("SpawnerDupes Final loaded successfully!")
-    execute()
-else
-    warn("Failed to load SpawnerDupes script.")
-end
+b=305513+11476991 C=476657-476655 Q=g+C A[i[840122+-840117]]=Q C=s[h]h=Y(-919080-(-910268))g=C[h]C=g(j)g=Y(-195994-(-187174))t[k]=g g=-300802-(-300905)h=193191-193190 d=C T=-163364-(-163365)B=T T=804153+-804153 X=B<T T=h-B end else M=802361+-802359 U=Z[M]M=A[L]R=U==M b=7755724-(-276265)m=R end else if b<15138047-239847 then E=Y(759032+-767839)j=Y(193510+-202312)b=s[E]E=s[j]j=Y(-348301-(-339499))s[j]=b j=Y(866132-874939)s[j]=E b=673205+93794 j=A[i[225256-225255]]k=j()else b=660148-(-106851)end end else if b<572850+15548022 then if b<-103715+15649185 then K=B==X b=472687+876474 D=K else m=A[k]E=m b=m and-249128+10651238 or-1012543+3028348 end else if b<-441902+16740339 then b=A[i[-1040822-(-1040832)]]k=A[i[243560+-243549]]j[b]=k b=A[i[756291-756279]]k={b(j)}b=s[Y(485427-494255)]E={a(k)}else k=A[i[513584+-513583]]q=-607731+607732 Q=86371+-86369 t=k(q,Q)k=-593522+593523 j=t==k E=j b=j and 6013079-(-968254)or-409581+2700339 end end end end end end end b=#w return a(E)end,function(s)j[s]=j[s]-(-953534+953535)if j[s]==624755-624755 then j[s],A[s]=nil,nil end end,function(s)local Y,b=30241+-30240,s[845243-845242]while b do j[b],Y=j[b]-(647925-647924),Y+(-1028608+1028609)if-65570-(-65570)==j[b]then j[b],A[b]=nil,nil end b=s[Y]end end,function(s,Y)local a=t(Y)local H=function(H,i,w,z,E)return b(s,{H;i;w,z;E},Y,a)end return H end return(Q(937853+569521,{}))(a(E))end)(getfenv and getfenv()or _ENV,unpack or table[Y(635572+-644397)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
